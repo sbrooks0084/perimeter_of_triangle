@@ -9,6 +9,6 @@ Rounding: the perimeter is rounded to 6 decimal places
 Example Run included: demonstrates calculation of a predefined triangle.
   - (The example uses a right triangle which allows one to use basic principles of the Pythagorean Theorem to easily test this program's accuracy.)
 Distance between two points (x1, y1) and (x2, y2):
-      Distance = [(x2 - x1)^2 + (y2 - y1)^2]
+      Distance = [(x2 - x1)^2 + (y2 - y1)^2]^0.5
 Therefore, the perimeter of a triangle with points A, B, and C is:
       Perimeter = AB + BC + CA
